@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Piirto</string>
+    <string name="sensorX">SensorX</string>
+    <string name="sensorY">SensorY</string>
+    <string name="xaxis">X-axis: %1$s</string>
+    <string name="yaxis">Y-axis: %1$s</string>
+</resources>
